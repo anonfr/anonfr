@@ -13,7 +13,7 @@
 
 Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
 
-<div align="left">
+
 
 - 🌍 Based in India
 - 🎓 Pursuing BTech in Computer Science/Blockchain
@@ -24,7 +24,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 ## 🔍 Current Focus
 
-<div align="left">
+
 
 - 🎯 Bounties: Currently participating in several bounties
 - 🚀 Projects: Exploring consumer crypto apps and contributing to the development of decentralized finance (DeFi) solutions.
@@ -33,7 +33,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 ## 📚 Projects
 
-<div align="left">
+
 
 - 🌟 You can check some public repo most are private :(
   
