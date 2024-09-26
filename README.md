@@ -1,6 +1,5 @@
 <div align="center">
-
-![Header Image](/code.jpg?raw=true)
+  <img height="400" src="/code.jpg?raw=true"  />
 
 # Hello 👋, I'm Anon
 
@@ -36,11 +35,8 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 <div align="left">
 
-- 🌟 Crypto Wonks: A community I founded to educate and engage people in the crypto space.
-- 🎵 HanChain: Involved in promoting transparency and fan engagement in music through blockchain.
-- 💻 OpenGPU: Contributing to decentralized GPU computing for AI and blockchain applications.
-- 📺 Script Network: Exploring decentralized live TV and video storage solutions.
-
+- 🌟 You can check some public repo most are private :(
+  
 </div>
 
 ## 🌐 Language and Tools
