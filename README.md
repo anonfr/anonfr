@@ -1,6 +1,10 @@
-![Header Image](/code.jpg?raw=true&s=100)
+<div align="center">
+  <img height="300" src="/code.jpg?raw=true"  />
+</div>
 
-# Hello 👋, I'm Anon
+###
+
+<h1 align="center">Hello 👋, I'm Anon</h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnonfxXBT)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnonfxXBT)
