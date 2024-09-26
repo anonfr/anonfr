@@ -9,6 +9,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=anonfr&color=blueviolet)
 
+</div>
+
 ## 👋 Introduction
 
 Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
