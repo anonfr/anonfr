@@ -1,4 +1,4 @@
-![Header Image](/code.jpg =500x)
+![Header Image](/code.jpg)
 
 # Hello 👋, I'm Anon
 
