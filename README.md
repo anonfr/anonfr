@@ -1,69 +1,57 @@
 <div align="center">
-  <img height="300" src="/code.jpg?raw=true"  />
 
-  <h1>Hello 👋, I'm Anon</h1>
+![Header Image](/code.jpg?raw=true)
 
-  <div>
-    <a href="https://twitter.com/AnonfxXBT" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-    </a>
-    <a href="https://t.me/AnonfxXBT" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-    </a>
-    <a href="mailto:anofrr@aol.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
-  </div>
+# Hello 👋, I'm Anon
 
-  <img src="https://komarev.com/ghpvc/?username=anonfr&color=blueviolet" alt="Profile Views" />
+[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnonfxXBT)
+[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnonfxXBT)
+[![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anofrr@aol.com)
 
-  <h3>👋 Introduction</h3>
+![Profile views](https://komarev.com/ghpvc/?username=anonfr&color=blueviolet)
 
-  <p>
-    Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
-  </p>
+## 👋 Introduction
 
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🌍 Based in India</li>
-    <li>🎓 Pursuing BTech in Computer Science/Blockchain</li>
-    <li>💼 Experienced in crypto marketing, community management, and web3 development</li>
-    <li>🐦 Shitposter and sometimes trader on Twitter: <a href="https://twitter.com/AnonfxXBT">@AnonfxXBT</a></li>
-  </ul>
+Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
 
+<div align="left">
 
-  <h3>🔍 Current Focus</h3>
+- 🌍 Based in India
+- 🎓 Pursuing BTech in Computer Science/Blockchain
+- 💼 Experienced in crypto marketing, community management, and web3 development
+- 🐦 Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
 
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🎯 Bounties: Currently participating in several bounties</li>
-    <li>🚀 Projects: Exploring consumer crypto apps and contributing to the development of decentralized finance (DeFi) solutions.</li>
-  </ul>
+</div>
 
-  <h3>📚 Projects</h3>
+## 🔍 Current Focus
 
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🌟 Crypto Wonks: A community I founded to educate and engage people in the crypto space.</li>
-    <li>🎵 HanChain: Involved in promoting transparency and fan engagement in music through blockchain.</li>
-    <li>💻 OpenGPU: Contributing to decentralized GPU computing for AI and blockchain applications.</li>
-    <li>📺 Script Network: Exploring decentralized live TV and video storage solutions.</li>
-  </ul>
+<div align="left">
 
-  <h3>🌐 Language and Tools</h3>
+- 🎯 Bounties: Currently participating in several bounties
+- 🚀 Projects: Exploring consumer crypto apps and contributing to the development of decentralized finance (DeFi) solutions.
 
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </div>
+</div>
+
+## 📚 Projects
+
+<div align="left">
+
+- 🌟 Crypto Wonks: A community I founded to educate and engage people in the crypto space.
+- 🎵 HanChain: Involved in promoting transparency and fan engagement in music through blockchain.
+- 💻 OpenGPU: Contributing to decentralized GPU computing for AI and blockchain applications.
+- 📺 Script Network: Exploring decentralized live TV and video storage solutions.
+
+</div>
+
+## 🌐 Language and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
   <h3>🔥 My Stats</h3>
 
