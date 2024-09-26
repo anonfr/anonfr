@@ -20,7 +20,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 - 💼 Experienced in crypto marketing, community management, and web3 development
 - 🐦 Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
 
-</div>
+
 
 ## 🔍 Current Focus
 
@@ -29,7 +29,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 - 🎯 Bounties: Currently participating in several bounties
 - 🚀 Projects: Exploring consumer crypto apps and contributing to the development of decentralized finance (DeFi) solutions.
 
-</div>
+
 
 ## 📚 Projects
 
@@ -37,7 +37,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 - 🌟 You can check some public repo most are private :(
   
-</div>
+
 
 ## 🌐 Language and Tools
 
