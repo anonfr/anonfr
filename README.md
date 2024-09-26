@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="400" src="/code.jpg?raw=true"  />
+  <img src="/code.jpg?raw=true" style="max-width: 100%; height: auto;" />
+</div>
 
 # Hello 👋, I'm Anon
 
