@@ -1,4 +1,4 @@
-![Header Image](/code.jpg)
+![Header Image](/code.jpg?raw=true&s=200)
 
 # Hello 👋, I'm Anon
 
