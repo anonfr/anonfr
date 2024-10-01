@@ -20,7 +20,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 - 🌍 Based in India
 - 🎓 Pursuing BTech in Computer Science/Blockchain
-- 💼 Experienced in crypto marketing, community management, and web3 development
+- 💼 Experienced in crypto, blockchain, and web3 development
 - 🐦 Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
 
 
