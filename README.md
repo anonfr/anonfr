@@ -38,7 +38,7 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 
 
-- 🌟 You can check some public repo most are private :(
+- 🌟 You can check some public repo most are private :((
   
 
 
