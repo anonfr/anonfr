@@ -2,7 +2,7 @@
   <img src="/code.jpg?raw=true" style="width: 500px; height: auto;" />
 </div>
 
-# Hello 👋, I'm Anon
+# hey, im anon
 
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnonfxXBT)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnonfxXBT)
@@ -17,8 +17,6 @@
 Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
 
 
-
-- 🌍 Based in India
 - 🎓 Pursuing BTech in Computer Science/Blockchain
 - 💼 Experienced in crypto, blockchain, and web3 development
 - 🐦 Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
@@ -26,7 +24,6 @@ Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With 
 
 
 ## 🔍 Current Focus
-
 
 
 - 🎯 Bounties: Currently participating in several bounties
