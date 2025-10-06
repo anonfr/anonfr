@@ -12,14 +12,14 @@
 
 </div>
 
-## 👋 Introduction
+##  Introduction
 
 Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
 
 
-- 🎓 Pursuing BTech in Computer Science/Blockchain
-- 💼 Experienced in crypto, blockchain, and web3 development
-- 🐦 Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
+-  Pursuing BTech in Computer Science/Blockchain
+-  Experienced in crypto, blockchain, and web3 development
+-  Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
 
 
 
