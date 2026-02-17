@@ -14,29 +14,13 @@
 
 ##  Introduction
 
-Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space. With a strong background in blockchain technology and a passion for decentralized applications, I focus on creating impactful content, managing communities, and contributing to various crypto projects.
+Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space.
 
 
 -  Pursuing BTech in Computer Science/Blockchain
 -  Experienced in crypto, blockchain, and web3 development
 -  Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
 
-
-
-## 🔍 Current Focus
-
-
-- 🎯 Bounties: Currently participating in several bounties
-- 🚀 Projects: Exploring consumer crypto apps and contributing to the development of decentralized finance (DeFi) solutions.
-
-
-
-## 📚 Projects
-
-
-
-- 🌟 You can check some public repo most are private :((
-  
 
 
 ## 🌐 Language and Tools
