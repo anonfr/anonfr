@@ -1,51 +1,68 @@
 <div align="center">
-  <img src="/code.jpg?raw=true" style="width: 500px; height: auto;" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=anon&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=builder%20%7C%20degen%20%7C%20dev&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
+
+<a href="https://x.com/AnonfxXBT"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://t.me/AnonfxXBT"><img src="https://img.shields.io/badge/Telegram-1a1b27?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:anofrr@aol.com"><img src="https://img.shields.io/badge/Mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anonfr&color=1a1b27&style=flat-square&label=visitors" />
+
 </div>
 
-# hey, im anon
+<br>
 
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnonfxXBT)
-[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnonfxXBT)
-[![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anofrr@aol.com)
+```js
+const anon = {
+    role: "Full Stack Developer & Web3 Degen",
+    education: "BTech Computer Science / Blockchain",
+    code: ["JavaScript", "TypeScript", "Python", "Solidity"],
+    focus: ["crypto", "blockchain", "web3", "bots"],
+    funFact: "i mass mass trades and mass mass code"
+};
+```
 
-![Profile views](https://komarev.com/ghpvc/?username=anonfr&color=blueviolet)
+<br>
+
+<div align="center">
+
+### tech stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,solidity,react,nextjs,nodejs,express,mongodb,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
-##  Introduction
+<br>
 
-Hey there I'm Anon, a Web3 nerd, Developer, and degen in the crypto space.
+<div align="center">
 
+### stats
 
--  Pursuing BTech in Computer Science/Blockchain
--  Experienced in crypto, blockchain, and web3 development
--  Shitposter and sometimes trader on Twitter: [@AnonfxXBT](https://twitter.com/AnonfxXBT)
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=anonfr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=anonfr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
+<br>
 
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonfr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
 
-## 🌐 Language and Tools
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br>
 
+<div align="center">
 
-  <h3>🔥 My Stats</h3>
+### activity
 
-  <!--START_SECTION:waka-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anonfr&theme=github-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
 
-  ```txt
-  Total Time: 230 hrs 37 mins
+</div>
 
-  JavaScript    140 hrs 2 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.72 %
-  TypeScript    49 hrs 42 mins  ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.55 %
-  JSON          13 hrs 11 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.72 %
-  Bash          6 hrs 55 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.00 %
-  CSS           6 hrs 19 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.74 %
-  ```
+<br>
 
-  <!--END_SECTION:waka-->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%" />
+
 </div>
