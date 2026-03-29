@@ -47,9 +47,9 @@ most of what i build lives at the intersection of crypto and software — bots, 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anonfr&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ededed&text_color=9e9e9e&icon_color=ededed&ring_color=ededed&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anonfr&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=ededed&text_color=9e9e9e&icon_color=ededed&ring_color=ededed&count_private=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anonfr&hide_border=true&background=00000000&ring=ededed&fire=ededed&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=555555&currStreakNum=ededed&sideNums=ededed" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anonfr&hide_border=true&background=0d1117&ring=ededed&fire=ededed&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=555555&currStreakNum=ededed&sideNums=ededed" width="100%" />
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ most of what i build lives at the intersection of crypto and software — bots, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anonfr&bg_color=00000000&color=9e9e9e&line=ededed&point=ededed&area=true&area_color=ededed&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anonfr&bg_color=0d1117&color=9e9e9e&line=ededed&point=ededed&area=true&area_color=ededed&hide_border=true" width="95%" />
 
 </div>
 
