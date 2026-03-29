@@ -21,10 +21,6 @@ most of what i build lives at the intersection of crypto and software — bots, 
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -42,28 +38,28 @@ most of what i build lives at the intersection of crypto and software — bots, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
 
-</td>
-<td valign="top" width="50%">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anonfr&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=ededed&text_color=9e9e9e&icon_color=ededed&ring_color=ededed&count_private=true" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anonfr&hide_border=true&background=0d1117&ring=ededed&fire=ededed&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=555555&currStreakNum=ededed&sideNums=ededed" width="100%" />
-
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anonfr&bg_color=0d1117&color=9e9e9e&line=ededed&point=ededed&area=true&area_color=ededed&hide_border=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anonfr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anonfr&theme=github_dark" width="95%" />
+</picture>
 
-</div>
-
-<div align="center">
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anonfr&style=flat-square&color=555555&label=profile+views" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anonfr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anonfr&theme=github_dark" width="32%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anonfr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anonfr&theme=github_dark" width="32%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anonfr&theme=github_dark&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anonfr&theme=github_dark&utcOffset=5.5" width="32%" />
+</picture>
 
 </div>
